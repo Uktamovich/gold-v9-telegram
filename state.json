@@ -1,6 +1,14 @@
 {
-  "last_candle": "2026-11-17T17:50:00+00:00",
-  "position": null,
-  "entries": {},
+  "last_candle": "2026-11-18T00:05:00+00:00",
+  "position": {
+    "side": "SELL",
+    "entry": 3841.621,
+    "sl": 3848.5134939481018,
+    "tp": 3820.943518155695,
+    "held": 0
+  },
+  "entries": {
+    "2026-11-18": 1
+  },
   "bar_counter": 0
 }
